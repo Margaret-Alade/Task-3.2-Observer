@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		F03A5B562C676A3700D66562 /* Task-3.2-Observer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Task-3.2-Observer"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F03A5B592C676A3700D66562 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		F03A5B612C69587F00D66562 /* errorfile.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = errorfile.txt; sourceTree = "<group>"; };
+		F03A5B622C69587F00D66562 /* fatalerrorfile.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = fatalerrorfile.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,8 @@
 		F03A5B582C676A3700D66562 /* Task-3.2-Observer */ = {
 			isa = PBXGroup;
 			children = (
+				F03A5B612C69587F00D66562 /* errorfile.txt */,
+				F03A5B622C69587F00D66562 /* fatalerrorfile.txt */,
 				F03A5B592C676A3700D66562 /* main.cpp */,
 			);
 			path = "Task-3.2-Observer";
